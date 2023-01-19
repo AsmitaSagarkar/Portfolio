@@ -6,6 +6,7 @@ body{
     text-align: center;
     font-family: 'Merriweather', serif;
     margin-bottom: 0px;
+    overflow:scroll;
 
 }
 

@@ -1,5 +1,5 @@
 body{
-    background-color: #FFDB89;
+    background-color: #FCFFE7;
     margin-top: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -83,6 +83,7 @@ p{
     line-height: 1.5;
     padding-left: 1px;
     padding-right: 1px;
+    font-size : 15px;
     
 }
 a{
@@ -142,6 +143,7 @@ a{
     .bottom-cloud{
         position: absolute;
     }
+    
 }
 .social-icon{
     margin: 15px 5px;
